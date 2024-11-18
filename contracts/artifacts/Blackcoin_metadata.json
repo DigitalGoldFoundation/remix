@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.28+commit.7893614a"
+		"version": "0.8.26+commit.8a97fa7a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -622,11 +622,11 @@
 			]
 		},
 		"contracts/MyToken.sol": {
-			"keccak256": "0x49bd8e8252d6ecffe644e60bee3645ad3384c63c9318babc106bf933f9708f58",
+			"keccak256": "0x28671501a78e25cf6129faea1898ccb991d1ff4b8fd52366ef6ac8b5d7286226",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://eb5df17f8d8bee30957cc0f763a1016d8ef17627ec06eec072dac7a037c3347b",
-				"dweb:/ipfs/QmTaw8FmquyQoANwrBnsDiJGYqq4NY1Lcmgqj7wJrefPng"
+				"bzz-raw://316dbd5057c228f556475489f153070cbd0e6ea00d0f23e774ab83e55ac26e17",
+				"dweb:/ipfs/QmVPHqaJQMfRvyLKTF6A4Dm99WsMr3ofi4PoRm7fXp6GBG"
 			]
 		}
 	},
